@@ -3,10 +3,14 @@
     padding:0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgba(224, 251, 255, 0.925);
+}
 
 .line-logo{
+background-color: white;
 
-line-height:100px ;
+line-height:10px ;
 
 
 }
@@ -24,4 +28,50 @@ h1{
     display: inline-block;
     vertical-align:middle;
     margin-bottom: 40px;
+}
+
+.contenitore{
+    width: 900px;
+    height: 500px;
+    background-color: white;
+    border-radius: 2%;
+    margin:0 auto;
+    margin-top: 50px;
+}
+
+.navigazione{
+
+    width: 100%;
+    height: 80px;
+    border: 1px solid rgba(224, 251, 255, 0.925);
+}
+
+#speciale1{
+    background-color: rgba(59, 158, 250, 0.932);
+    border-radius:5px;
+    display: inline-block;
+    margin-right:20px;
+    height:50px;
+    width: 80px;
+    line-height:50px ;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 70px;
+    color:white;
+    text-align: center;
+    
+}
+
+#speciale2{
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid lightslategray;
+    margin-right:20px;
+    height:50px;
+    width: 100px;
+    line-height:50px ;
+    vertical-align: middle;
+    margin-top: 10px;
+    text-align: center;
+    color: lightslategrey; 
 }
