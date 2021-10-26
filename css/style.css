@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 body{
     background-color: rgb(240, 244, 245);
@@ -23,7 +24,6 @@ line-height:10px ;
 }
 
 .scritta-logo{
-    font-family: 'Roboto', sans-serif;
     font-size: 40px;
     display: inline-block;
     vertical-align:middle;
@@ -78,7 +78,6 @@ line-height:10px ;
 }
 
 .nome-task{
-    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     margin-left: 70px;
     margin-top: 20px;
@@ -107,7 +106,6 @@ line-height:10px ;
 
 .scritte-task{
     margin-left: 10px;
-    font-family: 'Roboto', sans-serif;
     font-size: 25px;
 }
 
