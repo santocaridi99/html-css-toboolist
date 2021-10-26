@@ -22,7 +22,7 @@ line-height:10px ;
 
 }
 
-h1{
+.scritta-logo{
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     display: inline-block;
@@ -74,4 +74,45 @@ h1{
     margin-top: 10px;
     text-align: center;
     color: lightslategrey; 
+}
+
+.nome-task{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
+.row{
+    margin-top: 10px;
+}
+
+
+.vero{
+    color: greenyellow;
+    border:  1px solid greenyellow;
+    border-radius: 60%;
+    margin-left: 70px;
+   
+    
+
+}
+
+.scritte-task{
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.editorial{
+    background-color: rgba(59, 158, 250, 0.932);
+    border-radius:20px;
+    display: inline-block;
+    margin-right:20px;
+    height:50px;
+    width: 80px;
+    line-height:50px ;
+    vertical-align: middle;
+    color:white;
+    text-align: center;
 }
